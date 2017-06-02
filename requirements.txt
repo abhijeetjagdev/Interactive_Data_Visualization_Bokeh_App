@@ -2,3 +2,9 @@ appdirs==1.4.3
 packaging==16.8
 pyparsing==2.2.0
 six==1.10.0
+requests >=1.2.3
+PyYAML >=3.10
+python-dateutil >=2.1
+Jinja2 >=2.7
+numpy >=1.7.1
+tornado >=4.3
