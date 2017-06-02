@@ -9,3 +9,4 @@ Jinja2 >=2.7
 numpy >=1.7.1
 tornado >=4.3
 bokeh==0.12.2
+whitenoise==2.0.6
