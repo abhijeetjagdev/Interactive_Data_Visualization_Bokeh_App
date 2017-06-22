@@ -1,28 +1,26 @@
-# packages in environment at /Users/quicrmacbook/anaconda/envs/App:
-#
-bokeh                     0.12.5                    <pip>
-certifi                   2017.4.17                 <pip>
-chardet                   3.0.4                     <pip>
-idna                      2.5                       <pip>
-Jinja2                    2.9.6                     <pip>
-MarkupSafe                1.0                       <pip>
-numpy                     1.12.1                    <pip>
-openssl                   1.0.2l                        0  
-pandas                    0.20.1                    <pip>
-pip                       9.0.1                    py36_1  
-python                    3.6.1                         2  
-python-dateutil           2.6.0                     <pip>
-pytz                      2017.2                    <pip>
-PyYAML                    3.12                      <pip>
-readline                  6.2                           2  
-requests                  2.18.1                    <pip>
-setuptools                27.2.0                   py36_0  
-six                       1.10.0                    <pip>
-sqlite                    3.13.0                        0  
-tk                        8.5.18                        0  
-tornado                   4.4.2                     <pip>
-urllib3                   1.21.1                    <pip>
-wheel                     0.29.0                   py36_0  
-xlrd                      1.0.0                     <pip>
-xz                        5.2.2                         1  
-zlib                      1.2.8                         3  
+bokeh==0.12.5
+certifi==2017.4.17
+chardet==3.0.4
+idna==2.5
+Jinja2==2.9.6
+MarkupSafe==1.0
+numpy==1.12.1
+openssl==1.0.2l  
+pandas==0.20.1
+pip==9.0.1
+python==3.6.1
+python-dateutil==2.6.0
+pytz==2017.2
+PyYAML==3.12
+readline==6.2
+requests==2.18.1
+setuptools==27.2.0
+six==1.10.0
+sqlite==3.13.0
+tk==8.5.18
+tornado==4.4.2
+urllib3==1.21.1
+wheel==0.29.0
+xlrd==1.0.0
+xz==5.2.2
+zlib==1.2.8
