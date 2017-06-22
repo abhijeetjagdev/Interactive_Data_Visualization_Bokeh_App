@@ -23,5 +23,6 @@ tk                        8.5.18                        0
 tornado                   4.4.2                     <pip>
 urllib3                   1.21.1                    <pip>
 wheel                     0.29.0                   py36_0  
+xlrd                      1.0.0                     <pip>
 xz                        5.2.2                         1  
 zlib                      1.2.8                         3  
