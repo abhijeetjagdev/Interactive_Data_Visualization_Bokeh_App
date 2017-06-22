@@ -5,7 +5,7 @@ idna==2.5
 Jinja2==2.9.6
 MarkupSafe==1.0
 numpy==1.12.1
-openssl==1.0.2l  
+openssl==1.0.l  
 pandas==0.20.1
 pip==9.0.1
 python==3.6.1
