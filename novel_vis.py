@@ -27,7 +27,7 @@ xnames = {"Baseline NIHSS": 'nihss_BL', 'Baseline MRS': 'hx_mrs', 'Onset to CT t
           "mTICI Reperfusion score": "mtici_cent", 'Age': 'age_calc', 'ASPECTS Score (Baseline)': "aspects_sitebl"}
 
 # ycols = ['nihss_D90', 'mrs_D90', 'mtici_cent']
-ynames = {"NIHSS-Day 90": 'nihss_D90', "NIHSS-Day 30": "nihss_D30", "NIHSS-Day 5": "nihss_D5", "Baseline NIHSS": "nihss_BL",
+ynames = {"NIHSS-Day 90": 'nihss_D90', "NIHSS-Day 30": "nihss_D30", "NIHSS-Day 5": "nihss_D5",
           "NIHSS-48 Hours": "nihss_H48", "NIHSS-24 Hours": "nihss_H24", "NIHSS- 2-8 Hours": "nihss_H2_8",
           "MRS-Day 90": 'mrs_D90', "MRS-Day 30": 'mrs_D30', "mTICI Reperfusion score": 'mtici_cent'}
 
